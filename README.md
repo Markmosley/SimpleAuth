@@ -20,14 +20,14 @@ Plugin for PocketMine-MP that prevents people to impersonate an account, requeri
 
 
 * `/login <password>`
-* `/register <password>`
+* `/wregister <password>`
 * `/unregister <password>` (TODO)
 * For OPs: `/simpleauth <command: help|unregister> [parameters...]` (TODO)
 
 
 ## Configuration
 
-You can modify the _SimpleAuth/config.yml_ file on the _plugins_ directory once the plugin has been run for at least one time.
+You can modify The _SimpleAuth/config.yml_ file on the _plugins_ directory once the plugin has been run for at least one time.
 
 | Configuration | Type | Default | Description |
 | :---: | :---: | :---: | :--- |
